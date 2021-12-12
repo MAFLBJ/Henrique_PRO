@@ -37,6 +37,7 @@ function draw(){
   //dino.collide(bordas[3]);
   dino.collide(solo);
   console.log(solo.x);
+  //atividade: fazer o solo ser reiniciado -> solo infinito!!!
   if (solo.x){
 
   }
